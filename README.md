@@ -1,6 +1,6 @@
 ### The Github Of One 👋 Tyler Jones 👋
 
-<img src="./images/SQL.png" alt="banner img"/>
+<img width=350 src="./images/SQL.png" alt="banner img"/>
  <br/><br/>
 <a target='_blank' href="https://www.linkedin.com/in/tyler-jones=6411b4133" ><img width=50 src="./images/iconfinder_linkedin_294671.svg" alt="linkedin-icon" /></a>
 
