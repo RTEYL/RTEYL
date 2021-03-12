@@ -1,4 +1,8 @@
-### Hi there 👋
+### The Github Of One 👋 Tyler Jones 👋
+
+<img src="./images/SQL.png" alt="banner img"/>
+ <br/><br/>
+<a target='_blank' href="https://www.linkedin.com/in/tyler-jones=6411b4133" ><span>Linkedin</span></a>
 
 <!--
 **RTEYL/RTEYL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
