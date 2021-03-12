@@ -2,7 +2,7 @@
 
 <img src="./images/SQL.png" alt="banner img"/>
  <br/><br/>
-<a target='_blank' href="https://www.linkedin.com/in/tyler-jones=6411b4133" ><span>Linkedin</span></a>
+<a target='_blank' href="https://www.linkedin.com/in/tyler-jones=6411b4133" ><img width=50 src="./images/iconfinder_linkedin_294671.svg" alt="linkedin-icon" /></a>
 
 <!--
 **RTEYL/RTEYL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
