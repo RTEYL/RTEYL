@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rteyl&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=rteyl.rteyl" alt="visitor badge"/>
+![Visitor count](https://img.shields.io/badge/let%20actualVisitors-%3D%20visitors%20%3C%3D%200%20%3F%20'It's%20a%20lot!'%20%3A%20%E2%88%9E-blue)
