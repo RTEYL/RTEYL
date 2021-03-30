@@ -1,5 +1,5 @@
 
-![Visitor count](https://img.shields.io/badge/let%20actualVisitors-%3D%20visitors%20%3C%3D%200%20%3F%20'It's%20a%20lot!'%20%3A%20%E2%88%9E-blue)
+![Visitor count](https://img.shields.io/badge/let%20actualVisitors%20%3D-%20visitors%20%3C%3D%200%20%3F%20'It's%20a%20lot!'%20%3A%20%E2%88%9E-blue)
 ### 👋 Hi I'm Tyler 👋
 
 - <h3>:books: I’m currently learning:</h3><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/><img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
