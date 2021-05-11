@@ -8,7 +8,7 @@
 
 - <h3>📫 How to reach me: </h3><a target='_blank' href='mailto:rteyl1690@gmail.com'><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> or <a target='_blank' href='https://www.linkedin.com/in/tyler-jones=6411b4133'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-- <h3>⚡ Fun fact: :red_car: I also like car stuff :red_car:</h3>
+- <h3>:red_car: Fun fact: I also like car stuff </h3>
 
 
 <br/><br/>
