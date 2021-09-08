@@ -1,5 +1,3 @@
-
-![Visitor count](https://img.shields.io/badge/let%20actualVisitors%20%3D-%20visitors%20%3C%3D%200%20%3F%20'It's%20a%20lot!'%20%3A%20%E2%88%9E-blue)
 ### 👋 Hi I'm Tyler 👋
 
 - <h3>👯 I’m looking to collaborate on anything!</h3>
